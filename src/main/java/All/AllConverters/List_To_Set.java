@@ -15,6 +15,11 @@ public class List_To_Set {
         HashSet<String> strings = Optional.of(alist).map(HashSet::new).orElse(null);
 
         Set<String> stringSet = new HashSet<>(alist);
+        for(String s: alist){
+            stringSet.add(s);
+        }
+        Set<String> hashSet = new HashSet<>(alist);
+        Set<String> hashSet1 = alist.stream().collect(Collectors.toSet());
         Set<String> stringSet1 = new TreeSet<>(alist);
 
         List<String> stringList2 = collect.stream().collect(Collectors.toList());

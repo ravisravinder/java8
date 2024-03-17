@@ -1,15 +1,23 @@
 
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±ÏôÍûÿÿÿÿ8ÿÁúØä1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”Üõùÿÿÿÿ8€ÂúØä1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±ÏôÍûÿÿÿÿ8ÿĞ‘ää1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”Üõùÿÿÿÿ8€Ñ‘ää1
 S
-java:S1854"7Remove this useless assignment to local variable "al1".(’ú¬<8…ÂúØä1
+java:S1854"7Remove this useless assignment to local variable "al1".(’ú¬<8ƒÑ‘ää1
+`
+java:S1854">Remove this useless assignment to local variable "arrayList2".(Ş¢û£üÿÿÿÿ8ƒÑ‘ää1
+[
+java:S1854">Remove this useless assignment to local variable "arrayList1".(ºƒ£¿8ƒÑ‘ää1
 Y
-java:S1854"=Remove this useless assignment to local variable "arrayList".(ƒö‹W8…ÂúØä1
+java:S1854	"=Remove this useless assignment to local variable "arrayList".(ƒö‹W8ƒÑ‘ää1
 H
-java:S3599",Use another way to initialize this instance.(ƒö‹W8†ÂúØä1
+java:S3599	",Use another way to initialize this instance.(ƒö‹W8„Ñ‘ää1
 u
-java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ƒö‹W8‡ÂúØä1
+java:S1171	"YMove the contents of this initializer to a standard constructor or to field initializers.(ƒö‹W8„Ñ‘ää1
 J
-java:S1481".Remove this unused "arrayList" local variable.(ƒö‹W8‡ÂúØä1
+java:S1481	".Remove this unused "arrayList" local variable.(ƒö‹W8…Ñ‘ää1
+L
+java:S1481"/Remove this unused "arrayList1" local variable.(ºƒ£¿8…Ñ‘ää1
+Q
+java:S1481"/Remove this unused "arrayList2" local variable.(Ş¢û£üÿÿÿÿ8…Ñ‘ää1
 D
-java:S1481"(Remove this unused "al1" local variable.(’ú¬<8ˆÂúØä1
+java:S1481"(Remove this unused "al1" local variable.(’ú¬<8†Ñ‘ää1
