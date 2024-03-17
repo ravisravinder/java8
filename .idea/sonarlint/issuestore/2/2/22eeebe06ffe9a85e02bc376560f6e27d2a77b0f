@@ -2,12 +2,17 @@
 n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŒşÍúşÿÿÿÿ8Ã€Úä1
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”Üõùÿÿÿÿ8Ã€Úä1
 t
-java:S6204
-"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‹øÿÿÿÿ8–Ã€Úä1
-L	java:S106"+Replace this use of System.out by a logger.(Æã•ûÿÿÿÿ8˜Ã€Úä1
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‹øÿÿÿÿ8·ÓóÚä1
+L	java:S106"+Replace this use of System.out by a logger.(Æã•ûÿÿÿÿ8áµóÚä1
 o
-java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¥È±8Ğ×†Úä1
-L	java:S106"+Replace this use of System.out by a logger.(¦‰‚Ùúÿÿÿÿ8ü¯‚Úä1
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¥È±8¸ÓóÚä1
+L	java:S106"+Replace this use of System.out by a logger.(¦‰‚Ùúÿÿÿÿ8áµóÚä1
 V
-java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ñüÎ‘8™Ã€Úä1
-G	java:S106"+Replace this use of System.out by a logger.(‹¡¥Û8Ğ×†Úä1
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ñüÎ‘8âµóÚä1
+G	java:S106"+Replace this use of System.out by a logger.(‹¡¥Û8âµóÚä1
+G	java:S106"+Replace this use of System.out by a logger.(ªÖ”ú8âµóÚä1
+L	java:S106"+Replace this use of System.out by a logger.(ËÆ›üÿÿÿÿ8âµóÚä1
+o
+java:S6204""RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ÑØøÚä1
+G	java:S106%"+Replace this use of System.out by a logger.(–ñÅ8®Ó÷Úä1
+G	java:S106&"+Replace this use of System.out by a logger.(õ¯€Ì8®Ó÷Úä1
