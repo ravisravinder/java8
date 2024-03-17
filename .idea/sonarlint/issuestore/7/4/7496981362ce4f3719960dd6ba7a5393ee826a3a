@@ -1,0 +1,8 @@
+
+:
+java:S1700"Rename field "employees"(®¤ÿÉıÿÿÿÿ8ôëÈä1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©¨¼øÿÿÿÿ8ƒôëÈä1
+G	java:S106"+Replace this use of System.out by a logger.(ª‡ï8ôëÈä1
+G	java:S106"+Replace this use of System.out by a logger.(ª‡ï8­†íÈä1
+p
+java:S22722"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(»è–şıÿÿÿÿ8•ôëÈä1

@@ -1,0 +1,7 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(øµ¬¦ÿÿÿÿÿ8öº…Ãä1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ú†µÒ8º‚Ãä1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ó®ìè8Ò‚Ãä1
+L	java:S106"+Replace this use of System.out by a logger.(‰âÆ“ÿÿÿÿÿ8ñ–‡Ãä1

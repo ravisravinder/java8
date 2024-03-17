@@ -1,0 +1,15 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( àëÔşÿÿÿÿ8ó¹˜×ä1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”Üõùÿÿÿÿ8ô¹˜×ä1
+O
+java:S3958"2Refactor the code so this stream pipeline is used.(è  ¥8»Œà×ä1
+Z
+java:S1854"=Remove this useless assignment to local variable "intStream".(è  ¥8½Œà×ä1
+W
+java:S1854)":Remove this useless assignment to local variable "array1".(ÈùÕ¤8ôÈš×ä1
+K
+java:S1481".Remove this unused "intStream" local variable.(è  ¥8¾Œà×ä1
+L	java:S106"+Replace this use of System.out by a logger.(ƒìîüıÿÿÿÿ8ü¹˜×ä1
+F	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8İå˜×ä1
+H
+java:S1481)"+Remove this unused "array1" local variable.(ÈùÕ¤8öÈš×ä1
