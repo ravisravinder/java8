@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 
 public class String_to_int {
     public static void main(String[] args) {
-        List<String> stringList = Arrays.asList("10","20","30");
+        List<String> stringList = Arrays.asList("10", "20", "30");
 
         List<Integer> collect = stringList.stream().map(Integer::parseInt).collect(Collectors.toList());
         collect.forEach(System.out::println);
@@ -14,14 +14,14 @@ public class String_to_int {
         collect1.forEach(System.out::println);
 
         String s1 = "100";
-        int a= Integer.parseInt(s1);
+        int a = Integer.parseInt(s1);
         int b = Integer.valueOf(s1);
         Integer a1 = Integer.valueOf(s1);
         Integer a2 = Integer.parseInt(s1);
-        System.out.println("a "+a+" "+b+" "+a1+" "+a2);
+        System.out.println("a " + a + " " + b + " " + a1 + " " + a2);
 
 
-        String[] strings = {"1","2","3","4","5"};
+        String[] strings = {"1", "2", "3", "4", "5"};
         // Convert String array to List of Strings
         List<String> stringList1 = Arrays.asList(strings);
         // Print the elements of the list of strings

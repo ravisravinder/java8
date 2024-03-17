@@ -16,7 +16,6 @@ public class InitializeHashSet {
         Set<String> str2 = Arrays.stream(string)
                 .collect(Collectors.toCollection(HashSet::new));
 
-
         List<String> stringList = List.of("123","345","456");
         stringList.stream().collect(Collectors.toCollection(HashSet::new));
 

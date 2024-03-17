@@ -1,5 +1,6 @@
 package All.AllConverters;
 
+import java.util.Arrays;
 import java.util.stream.IntStream;
 
 public class ArraysExamples {
@@ -9,7 +10,7 @@ public class ArraysExamples {
         int m3[] = IntStream.of(14,15,17).toArray();
         int m4[] = IntStream.range(10,30).toArray();
         int m5[] = IntStream.of(56,46,86,23,67,42).sorted().toArray();
-        java.util.Arrays.stream(m5).forEach(System.out::println);
+        Arrays.stream(m5).forEach(System.out::println);
 
 
     }
