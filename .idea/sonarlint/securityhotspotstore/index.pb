@@ -123,3 +123,7 @@ f
 6src/main/java/All/AllConverters/List_to_Int_Array.java,f\5\f5f7992bc508e3c7caae87d4111cab159b844dda
 a
 1src/main/java/All/AllConverters/Set_to_Array.java,f\7\f7833e3367967fa0cdca2e137fa564ae3286c61d
+\
+,src/main/java/COllections/QueueLinkedList.kt,4\0\40419bd9417e18293f05f28eadf0d88445a2ddfb
+^
+.src/main/java/COllections/QueueLinkedList.java,2\6\26ea8c60ecc976d1a0e40f1dcd6f5b3967c50911
